@@ -1,3 +1,8 @@
+---
+name: Questions & answers
+about: Support
+
+---
 ### *Who* is the bug affecting?
 <!-- Ex. All supervisors, Sally Supervisor, Level 1 CCs -->
 

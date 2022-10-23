@@ -1,5 +1,5 @@
 ---
-name: "[TARGET][FIRMWARE] Bugreport with checklist"
+name: "Bugreport with checklist"
 about: Short description
 
 ---
