@@ -1,6 +1,6 @@
 ---
-name: "Bugreport with checklist"
-about: Short description
+name: Checklist of the bug or feature
+about: Description of the bug or feature
 
 ---
 
