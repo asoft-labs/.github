@@ -1,6 +1,6 @@
 ---
-name: "[TARGET][FIRMWARE] Bug report"
-about: Short description
+name: Bug report
+about: Issue description
 
 ---
 
